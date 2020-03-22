@@ -22,7 +22,7 @@ spec:
       enabled: true
   chartReference:
     chart: portworx
-    repo: https://aayvazyan.github.io/pwx/
+    repo: https://aayvazyan.github.io/pwx/charts
     version: 1.0.0
     values: |
       ---
