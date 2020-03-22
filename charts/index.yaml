@@ -11,6 +11,6 @@ entries:
     sources:
     - https://github.com/portworx/helm
     urls:
-    - https://aayvazyan.github.io/pwx/portworx-1.0.0.tgz
+    - https://aayvazyan.github.io/pwx/charts/portworx-1.0.0.tgz
     version: 1.0.0
 generated: "2020-03-22T17:07:50.529689+04:00"
